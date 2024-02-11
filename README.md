@@ -1,2 +1,2 @@
-# DIO_DESAFIO_GITHUB_1_REP
+# Reposito do desafio de projeto sobre GIT/GITHUB da DIO
 DESAFIO DIO
